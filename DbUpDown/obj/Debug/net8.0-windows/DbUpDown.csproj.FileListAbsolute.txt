@@ -1,0 +1,16 @@
+D:\2myproject\db-up-down\DbUpDown\bin\Debug\net8.0-windows\DbUpDown.exe
+D:\2myproject\db-up-down\DbUpDown\bin\Debug\net8.0-windows\DbUpDown.deps.json
+D:\2myproject\db-up-down\DbUpDown\bin\Debug\net8.0-windows\DbUpDown.runtimeconfig.json
+D:\2myproject\db-up-down\DbUpDown\bin\Debug\net8.0-windows\DbUpDown.dll
+D:\2myproject\db-up-down\DbUpDown\bin\Debug\net8.0-windows\DbUpDown.pdb
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.Form1.resources
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.csproj.GenerateResource.cache
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.GeneratedMSBuildEditorConfig.editorconfig
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.AssemblyInfoInputs.cache
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.AssemblyInfo.cs
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.csproj.CoreCompileInputs.cache
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.dll
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\refint\DbUpDown.dll
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.pdb
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\DbUpDown.genruntimeconfig.cache
+D:\2myproject\db-up-down\DbUpDown\obj\Debug\net8.0-windows\ref\DbUpDown.dll
